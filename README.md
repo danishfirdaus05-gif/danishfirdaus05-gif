@@ -9,5 +9,5 @@ C++ Java SQL Cisco
 Projects
 Project name: Barbershop App (check barber availability, book barbers, save haircuts, etc.)
 Contact
-LinkedIn: [your profile link]
+LinkedIn: 
 Email: danishfirdaus05@gmail.com
