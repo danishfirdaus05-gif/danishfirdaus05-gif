@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**danishfirdaus05-gif/danishfirdaus05-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Danish Firdaus
+Computer Science student at UiTM (Shah Alam) interested in software engineering and AI
+About me
+Studying: CDCS230 (Computer Science), UiTM
+Currently learning: [topics]
+My FYP area: still deciding
+Skills and tools
+C++ Java SQL Cisco
+Projects
+Project name: Barbershop App (check barber availability, book barbers, save haircuts, etc.)
+Contact
+LinkedIn: [your profile link]
+Email: danishfirdaus05@gmail.com
